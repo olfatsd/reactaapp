@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactaapp/static/css/main.073c9b0a.css",
+    "main.js": "/reactaapp/static/js/main.065b72b7.js",
+    "static/js/787.e5f761d7.chunk.js": "/reactaapp/static/js/787.e5f761d7.chunk.js",
+    "index.html": "/reactaapp/index.html",
+    "main.073c9b0a.css.map": "/reactaapp/static/css/main.073c9b0a.css.map",
+    "main.065b72b7.js.map": "/reactaapp/static/js/main.065b72b7.js.map",
+    "787.e5f761d7.chunk.js.map": "/reactaapp/static/js/787.e5f761d7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.065b72b7.js"
+  ]
+}
